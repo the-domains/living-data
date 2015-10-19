@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Living Data]]></title>
         <description><![CDATA[Living Data]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/living-data/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 05:40:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 05:40:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/living-data/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/living-data/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">503db7a3-ed42-4da0-94e9-1439806f1d87</guid>
+            <pubDate>Mon, 19 Oct 2015 05:39:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is a TITLE]]></title>
             <description><![CDATA[<article><h1>This is a TITLE</h1><p>This is the description</p></article>]]></description>
-            <link>undefinedthis-is-a-title/index.html</link>
+            <link>https://thegrid.ai/living-data/this-is-a-title/index.html</link>
             <guid isPermaLink="false">128739b4-98c6-4de2-bb8a-5b0778692ca6</guid>
             <pubDate>Mon, 19 Oct 2015 05:39:32 GMT</pubDate>
         </item>
