@@ -1,4 +1,4 @@
-name: null
+name: Living Data
 favicon: null
 layout_spectrum: 0.3474190514534712
 typography_spectrum: 0.8577987302560359
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.49944953387603164
+  brandStrength: 0.5
   lightness: 0.033292006235569715
   saturation: 0.044965701876208186
   rhythmicContrast: 0.5637810637708753
