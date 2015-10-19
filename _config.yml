@@ -1,7 +1,7 @@
 name: Living Data
 favicon: null
 layout_spectrum: 0.77814
-typography_spectrum: 0.8577987302560359
+typography_spectrum: 0.3819
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#8aa1a3'
     - '#6c6d67'
   brandStrength: 0.5
-  lightness: 0.033292006235569715
-  saturation: 0.044965701876208186
-  rhythmicContrast: 0.5637810637708753
+  lightness: 0.0625
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
